@@ -12,6 +12,7 @@ public class GFG {
         // Internal iterator 
         numbers.forEach(number 
                         -> System.out.print( 
-                            number + " ")); 
+                            number + "")); 
+                            System.out.print("Developed by derrick ");
     } 
 } 
